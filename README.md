@@ -1,1 +1,1 @@
-Teste do Commit
+No jogo do número secreto, o objetivo é descobrir qual o número da rodada apenas usando chutes, tentando usar o mínimo possível. Nesse projeto usamos uma linguagen de programação, JavaScript e duas de marcação, sendo elas HTML e CSS. No HTML pode ser observado toda a estrutura visual do programa, como os textos, as dvisões e os elementos encontrados na página/tela do jogo. No CSS temos a estrutura das cores e estilos dos elementos, que torna o nosso programa mais atrativo e elegante, modificando formas e cores no fundo, elementos como botões, etc.
